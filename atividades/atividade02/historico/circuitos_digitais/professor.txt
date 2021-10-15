@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/professores/Luis_Rodolfo_Rebouças_Coutinho.txt
+../../professores/Luis_Rodolfo_Rebouças_Coutinho.txt

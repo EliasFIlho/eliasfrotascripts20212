@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/disciplinas/linguagens_formais_e_automatos.txt
+../../disciplinas/linguagens_formais_e_automatos.txt

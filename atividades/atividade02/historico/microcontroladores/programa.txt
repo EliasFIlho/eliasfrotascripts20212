@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/disciplinas/microcontroladores.txt
+../../disciplinas/microcontroladores.txt

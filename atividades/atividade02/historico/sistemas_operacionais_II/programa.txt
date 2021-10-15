@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/disciplinas/sistemas_operacionais_II
+../../disciplinas/sistemas_operacionais_II.txt

@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/disciplinas/probabilidade_e_estatistica.txt
+../../disciplinas/probabilidade_e_estatistica.txt

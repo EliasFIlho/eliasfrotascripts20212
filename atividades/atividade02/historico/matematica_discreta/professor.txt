@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/professores/Wladmir_Araujo_Tavares.txt
+../../professores/Wladmir_Araujo_Tavares.txt

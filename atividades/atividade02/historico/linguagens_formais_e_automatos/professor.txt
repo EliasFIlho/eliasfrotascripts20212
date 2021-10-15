@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/professores/Davi_Romero_de_Vasconcelos.txt
+../../professores/Davi_Romero_de_Vasconcelos.txt

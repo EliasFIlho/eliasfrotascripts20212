@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/disciplinas/introduçao_a_engenharia_de_computaçao.txt
+../../disciplinas/introduçao_a_engenharia_de_computaçao.txt

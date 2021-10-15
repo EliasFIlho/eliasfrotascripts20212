@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/disciplinas/calculo_diferencial_e_integral_II.txt
+../../disciplinas/calculo_diferencial_e_integral_II.txt

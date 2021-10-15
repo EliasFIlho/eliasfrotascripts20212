@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/professores/Francisco_Helder_Candido_dos_Santos_Filho.txt
+../../professores/Francisco_Helder_Candido_dos_Santos_Filho.txt

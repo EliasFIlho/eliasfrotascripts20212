@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/disciplinas/estrutura_de_dados.txt
+../../disciplinas/estrutura_de_dados.txt

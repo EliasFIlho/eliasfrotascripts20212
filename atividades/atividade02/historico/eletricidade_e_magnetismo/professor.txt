@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/professores/Antonio_Joel_Ramiro_de_Castro.txt
+../../professores/Antonio_Joel_Ramiro_de_Castro.txt

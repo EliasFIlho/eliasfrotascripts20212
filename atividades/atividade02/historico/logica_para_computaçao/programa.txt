@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/disciplinas/logica_para_computaçao.txt
+../../disciplinas/logica_para_computaçao.txt

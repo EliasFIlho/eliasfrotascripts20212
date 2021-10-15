@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/professores/Paulo_de_Tarso_Guerra_Oliveira.txt
+../../professores/Paulo_de_Tarso_Guerra_Oliveira.txt

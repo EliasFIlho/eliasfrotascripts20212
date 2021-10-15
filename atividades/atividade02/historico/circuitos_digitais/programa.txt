@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/disciplinas/circuitos_digitais.txt
+../../disciplinas/circuitos_digitais.txt

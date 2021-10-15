@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/professores/Rubens_Fernandes_Nunes.txt
+../../professores/Rubens_Fernandes_Nunes.txt

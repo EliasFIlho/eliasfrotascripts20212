@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/disciplinas/sistemas_de_tempo_real.txt
+../../disciplinas/sistemas_de_tempo_real.txt

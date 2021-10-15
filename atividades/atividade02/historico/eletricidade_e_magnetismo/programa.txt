@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/disciplinas/eletricidade_e_magnetismo.txt
+../../disciplinas/eletricidade_e_magnetismo.txt

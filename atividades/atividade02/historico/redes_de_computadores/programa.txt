@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/disciplinas/redes_de_computadores.txt
+../../disciplinas/redes_de_computadores.txt

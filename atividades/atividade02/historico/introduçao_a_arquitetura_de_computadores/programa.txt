@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/disciplinas/introduçao_a_arquitetura_de_computadores.txt
+../../disciplinas/introduçao_a_arquitetura_de_computadores.txt

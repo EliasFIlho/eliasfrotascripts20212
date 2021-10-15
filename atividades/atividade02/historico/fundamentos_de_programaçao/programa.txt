@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/disciplinas/fundamentos_de_programaçao.txt
+../../disciplinas/fundamentos_de_programaçao.txt

@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/disciplinas/pre-calculo.txt
+../../disciplinas/pre-calculo.txt

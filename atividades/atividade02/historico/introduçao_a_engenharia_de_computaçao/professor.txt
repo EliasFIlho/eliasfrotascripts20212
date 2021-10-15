@@ -1,1 +1,1 @@
-/home/elias/atividades/atividade02/professores/Cristiano_Bacelar_de_Oliveira.txt
+../../professores/Cristiano_Bacelar_de_Oliveira.txt
