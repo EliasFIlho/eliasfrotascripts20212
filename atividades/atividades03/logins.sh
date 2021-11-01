@@ -1,3 +1,4 @@
+# Correção: 2,0
 grep -E 'sshd' -vi auth.log
 grep -E 'Accepted.{15}j' auth.log 
 grep -E 'sshd.*root' auth.log 
