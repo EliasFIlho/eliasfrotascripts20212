@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Correção: 0,5
 primeiro=${1}
 segundo=${2}
 terceiro=${3}

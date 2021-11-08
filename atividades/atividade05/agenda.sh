@@ -1,4 +1,6 @@
 #!/bin/bash
+# Correção: 1,0
+# Um pequeno erro. O primeiro usuário adicionado, há um espaço no e-mail. Daí ele não pode ser removido. Adicione três e tente remover o primeiro para observar.
 
 op=${1}
 p1=${2}
