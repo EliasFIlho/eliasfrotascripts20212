@@ -1,4 +1,5 @@
 #!/bin/bash
+# Correção: 0,5. Se são vários IPs, você deveria ir anexando para depois tratar.
 
 lista=${1}
 ping_number=10
