@@ -1,4 +1,6 @@
 #!/bin/bash
+# Correção: 0,5
+# Não lista os arquivos.
 
 TIME=$1
 WAY=$2
