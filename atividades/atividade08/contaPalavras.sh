@@ -1,4 +1,5 @@
 #!/bin/bash
+# Correção: 0,1. Não executa por um erro de sintaxe na inicialização de uma variável. Mesmo fazendo a alteração, continua sem funcionar.
 
 arq=$1
 
