@@ -17,8 +17,8 @@ adicionar(){
 
 remover(){
 
-	
-	sed -i "/$1/d" hosts.db
+	hostn=$1
+	sed -i "/$hostn/d" hosts.db
 }
 
 listar(){
