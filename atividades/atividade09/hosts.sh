@@ -1,4 +1,8 @@
 #!/bin/bash
+# Correção: 0,5
+# A remoção não funciona.
+# A busca também não.
+
 
 action=0
 host="vazio"
