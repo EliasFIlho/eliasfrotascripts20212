@@ -12,3 +12,5 @@ done
 
 awk '{split($4,a,":")}{split($7,b,"tempo=")}{print a[1] " " b[2] $8}' pings.txt
 
+rm pings.txt
+
