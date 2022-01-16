@@ -12,11 +12,18 @@ aws ec2 authorize-security-group-ingress --group-name MeuSecurityGroup3 --protoc
     
 aws ec2 authorize-security-group-ingress --group-name MeuSecurityGroup3 --protocol tcp --port 80 --cidr 0.0.0.0/0
     
+    
+echo "#!/bin/bash
+sudo amazon-linux-extras install -y nginx1.12
+sudo systemctl start nginx
+cd /usr/share/nginx/html
+sudo mv index.html index.html.old
+echo '<html><head><meta charset='UTF-8'/><title>Atividade12</title></head><body><h1>Elias Frota Coutinho Filho</h1> <h1>422173</h1></body></html>' > index.html" > /tmp/webscript.txt
+    
 instance_value=$(aws ec2 run-instances --instance-type "t2.micro" --image-id $AM --key-name $keyname --security-group-ids $SGC --subnet-id $SUBNETID --user-data file:///tmp/webscript.txt) 
 
 
 
 
-
-#echo "Acesse http://$ip/ 
+echo "Acesse http://$ip/ 
 
