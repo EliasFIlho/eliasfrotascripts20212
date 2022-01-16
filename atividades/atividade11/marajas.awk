@@ -1,4 +1,4 @@
-
+# Correção: 0,5. Não funciona se alterarmos o número de cursos. A parte da AWS Academy está OK.
 
 BEGIN{
 	i = 1
