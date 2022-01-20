@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Correção: 3,5. O script funciona, mas fica bloqueado sem retornar o IP. A questão é que você tentou fazer na variável insid. Dá um grep sem passar nada para o comando?
 keyname=$1
 AM=ami-08e4e35cccc6189f4
 VPCID=$(aws ec2 describe-vpcs --query "Vpcs[0].VpcId" --output text)
