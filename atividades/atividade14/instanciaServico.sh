@@ -1,4 +1,5 @@
 #!/bin/bash
+# Correção: 0,5. O script joga várias mensagens de erro. Por alguma razão o userdata.sh desaparece e é movido para o /tmp? Não consigo imaginar a razão.
 keyname=$1
 AM=ami-08e4e35cccc6189f4
 VPCID=$(aws ec2 describe-vpcs --query "Vpcs[0].VpcId" --output text)
