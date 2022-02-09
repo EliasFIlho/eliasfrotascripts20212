@@ -1,3 +1,4 @@
+# Correção: 0,1. Nem o interpretador correto você colocou. 
 #!bin/bash
 keyname=$1
 user_name=$2
